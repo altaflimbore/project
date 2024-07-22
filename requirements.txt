@@ -1,0 +1,7 @@
+streamlit
+pandas
+SpeechRecognition
+streamlit_webrtc
+PyAudio
+streamlit_autorefresh
+scikit-learn
